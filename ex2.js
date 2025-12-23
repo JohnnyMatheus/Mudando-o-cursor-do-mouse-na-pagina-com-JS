@@ -1,9 +1,3 @@
-# Mudando-o-cursor-do-mouse-na-página-com-JS
-
-
-```
-//Johnny Matheus
-
 const html = document.querySelector('html');
 html.style.cursor = 'none';
 function seguirMouse(event){
@@ -29,4 +23,3 @@ function seguirMouse2(event){
     circulo2.style.left = event.x + 'px';
 }
 window.addEventListener('mousemove', seguirMouse2)
-```

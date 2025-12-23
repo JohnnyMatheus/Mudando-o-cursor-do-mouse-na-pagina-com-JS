@@ -1,0 +1,1 @@
+# Mudando-o-cursor-do-mouse-na-p-gina-com-JS
